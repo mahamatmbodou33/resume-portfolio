@@ -1,7 +1,6 @@
 Resume-Portfolio! -Project Documentation
 ![Screenshot 2025-02-13 225414](https://github.com/user-attachments/assets/7f3a82ee-b9d9-488a-82c3-9fc895bbc530)
 
-Project Description
 This project involves building a fully responsive and interactive portfolio website using HTML, CSS, and JavaScript. The website will showcase projects and skills in an elegant and user-friendly manner.
 
 The website is hosted on an Amazon S3 bucket, leveraging its scalability and cost-effectiveness for static web hosting. AWS CloudFront is configured as a CDN (Content Delivery Network) to ensure security and fast content delivery, improving load times and caching efficiency across different geographic locations.
