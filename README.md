@@ -1,5 +1,4 @@
 Resume-Portfolio! -Project Documentation
-Website Architecture
 ![Screenshot 2025-02-13 225414](https://github.com/user-attachments/assets/7f3a82ee-b9d9-488a-82c3-9fc895bbc530)
 
 Project Description
